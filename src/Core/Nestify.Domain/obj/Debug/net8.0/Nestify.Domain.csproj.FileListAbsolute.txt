@@ -9,3 +9,4 @@ C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Domain\obj\Debug\net8.0\Nestify
 C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Domain\obj\Debug\net8.0\refint\Nestify.Domain.dll
 C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Domain\obj\Debug\net8.0\Nestify.Domain.pdb
 C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Domain\obj\Debug\net8.0\ref\Nestify.Domain.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Domain\obj\Debug\net8.0\Nestify.Domain.sourcelink.json

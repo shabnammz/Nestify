@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nestify.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1131b74b5776b316cee0f594dbe88f2a6d8a46fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nestify.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nestify.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
