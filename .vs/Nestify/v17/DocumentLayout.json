@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Nestify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|c:\\users\\lenovo\\desktop\\nestify\\src\\core\\nestify.domain\\entities\\commons\\softdeletablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|solutionrelative:src\\core\\nestify.domain\\entities\\commons\\softdeletablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|c:\\users\\lenovo\\desktop\\nestify\\src\\core\\nestify.domain\\entities\\commons\\baseentitywithaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|solutionrelative:src\\core\\nestify.domain\\entities\\commons\\baseentitywithaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|c:\\users\\lenovo\\desktop\\nestify\\src\\core\\nestify.domain\\entities\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|solutionrelative:src\\core\\nestify.domain\\entities\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftDeletableBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\SoftDeletableBaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Commons\\SoftDeletableBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\SoftDeletableBaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\Nestify.Domain\\Entities\\Commons\\SoftDeletableBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T11:47:56.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntityWithAudit.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntityWithAudit.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntityWithAudit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntityWithAudit.cs",
+              "RelativeToolTip": "src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntityWithAudit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T11:47:32.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T11:46:59.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

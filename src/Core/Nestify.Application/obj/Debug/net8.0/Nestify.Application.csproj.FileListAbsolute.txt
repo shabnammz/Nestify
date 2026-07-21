@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\bin\Debug\net8.0\Nestify.Application.deps.json
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\bin\Debug\net8.0\Nestify.Application.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\bin\Debug\net8.0\Nestify.Application.pdb
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\Nestify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\Nestify.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\Nestify.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\Nestify.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\Nestify.Application.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\refint\Nestify.Application.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\Nestify.Application.pdb
+C:\Users\Lenovo\Desktop\Nestify\src\Core\Nestify.Application\obj\Debug\net8.0\ref\Nestify.Application.dll

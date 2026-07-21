@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\bin\Debug\net8.0\Nestify.Persistence.deps.json
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\bin\Debug\net8.0\Nestify.Persistence.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\bin\Debug\net8.0\Nestify.Persistence.pdb
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\refint\Nestify.Persistence.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.pdb
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\ref\Nestify.Persistence.dll
