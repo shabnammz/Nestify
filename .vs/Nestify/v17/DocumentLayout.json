@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Nestify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{379B5DE4-C437-4290-A23D-1F146BF9FAD4}|src\\Infrastructure\\Nestify.Persistence\\Nestify.Persistence.csproj|c:\\users\\lenovo\\desktop\\nestify\\src\\infrastructure\\nestify.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B5DE4-C437-4290-A23D-1F146BF9FAD4}|src\\Infrastructure\\Nestify.Persistence\\Nestify.Persistence.csproj|solutionrelative:src\\infrastructure\\nestify.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|c:\\users\\lenovo\\desktop\\nestify\\src\\core\\nestify.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8795B168-D4FC-483F-8193-D9644297B34E}|src\\Core\\Nestify.Domain\\Nestify.Domain.csproj|solutionrelative:src\\core\\nestify.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,24 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Favorite.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
-              "RelativeToolTip": "src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Infrastructure\\Nestify.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Nestify.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Infrastructure\\Nestify.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Nestify.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T19:19:20.598Z",
+              "WhenOpened": "2026-07-22T19:34:04.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PropertyImage.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\PropertyImage.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\PropertyImage.cs",
@@ -104,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Contract.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Contract.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Contract.cs",
@@ -117,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\RefreshToken.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\RefreshToken.cs",
@@ -130,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Review.cs",
@@ -143,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\User.cs",
               "RelativeToolTip": "src\\Core\\Nestify.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T19:22:54.108Z",
               "EditorCaption": ""
@@ -157,6 +161,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
+              "RelativeToolTip": "src\\Core\\Nestify.Domain\\Entities\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:19:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Property.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Property.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Property.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\City.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\City.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Category.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Application.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Application.cs",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Enums\\UserRole.cs",
@@ -221,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ContractStatus.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Enums\\ContractStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Enums\\ContractStatus.cs",
@@ -234,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationStatus.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Enums\\ApplicationStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Enums\\ApplicationStatus.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SoftDeletableBaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\SoftDeletableBaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Commons\\SoftDeletableBaseEntity.cs",
@@ -260,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "BaseEntityWithAudit.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntityWithAudit.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntityWithAudit.cs",
@@ -273,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nestify\\src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\Nestify.Domain\\Entities\\Commons\\BaseEntity.cs",

@@ -9,3 +9,10 @@ C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug
 C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\refint\Nestify.Persistence.dll
 C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.pdb
 C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\ref\Nestify.Persistence.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\bin\Debug\net8.0\Nestify.Persistence.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\bin\Debug\net8.0\Nestify.Domain.dll
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\bin\Debug\net8.0\Nestify.Domain.pdb
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.sourcelink.json
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify..0FFEF43E.Up2Date
+C:\Users\Lenovo\Desktop\Nestify\src\Infrastructure\Nestify.Persistence\obj\Debug\net8.0\Nestify.Persistence.genruntimeconfig.cache
