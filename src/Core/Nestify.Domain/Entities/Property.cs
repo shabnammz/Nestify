@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
+﻿
 
 namespace Nestify.Domain.Entities
 {
@@ -19,8 +14,15 @@ namespace Nestify.Domain.Entities
 
         // relational
         public Guid CategoryId { get; set; }
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
         public Guid CityId { get; set; }
-        public City City { get; set; }
+        public City? City { get; set; }
+        public Guid OwnerId { get; set; }
+        public User? Owner { get; set; }
+
+        public ICollection<PropertyImage> Images { get; set; } = new List<PropertyImage>();
+        public ICollection<Application> Applications { get; set; } = new List<Application>();
+        public ICollection<Review> Reviews { get; set; } = new List<Review>();
+        public ICollection<Favorite> Favorites { get; set; } = new List<Favorite>();
     }
 }

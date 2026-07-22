@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Nestify.Domain.Entities
+﻿namespace Nestify.Domain.Entities
 {
     public class City:BaseEntity
     {
@@ -12,6 +6,6 @@ namespace Nestify.Domain.Entities
         public string Country { get; set; }
 
         //relational
-        public ICollection<Property> Properties { get; set; }
+        public ICollection<Property> Properties { get; set; } = new List<Property>();
     }
 }
